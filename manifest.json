@@ -7,12 +7,12 @@
   "theme_color": "#ffcc00",
   "icons": [
     {
-      "src": "/web/image/website/your-icon-192.png",
+      "src": "https://github.com/vkcpolavarapu/website/blob/main/Stotramalika512.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/web/image/website/your-icon-512.png",
+      "src": "https://github.com/vkcpolavarapu/website/blob/main/Stotramalika512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
